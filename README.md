@@ -1,3 +1,8 @@
+### EX.NO: 08
+
+### DATE:
+
+
 # Inheritance
 
 ## Aim:
